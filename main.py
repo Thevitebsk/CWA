@@ -1,5 +1,5 @@
 def run(code:str):
- s=[];p=0
+ s=[1];p=0
  while p<len(code):
   if code[p]=="@":s.append(s[-1])
   elif code[p]=="#":s.pop()
