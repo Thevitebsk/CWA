@@ -1,6 +1,5 @@
 # CW-at or CW@
-its a esolang i made. this is its interpreter. im not sure if its turing complete. but maybe it is. here is a link to the page: https://esolangs.org/w/index.php?title=COPY_WITH_@ . there are needed to modify the script to put in your script(see inside script). 
-also the stack does NEED to start at 1
+An esolang made by [Yayimhere](https://esolangs.org/wiki/User:Yayimhere), see the [esolngs page](https://esolangs.org/wiki/COPY_WITH_@) for info about the languge
 
 Original implementation by [Yayimhere](https://esolangs.org/wiki/User:Yayimhere)
 
